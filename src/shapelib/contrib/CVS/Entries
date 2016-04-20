@@ -1,0 +1,19 @@
+/.cvsignore/1.3/Wed Jul 21 11:52:25 2010//TSTABLE
+/Makefile.am/1.13/Thu Nov  1 18:57:19 2012//TSTABLE
+/Makefile_orig/1.1/Sat Nov 11 23:46:44 2006//TSTABLE
+/ShapeFileII.pas/1.1/Fri Nov 10 21:48:10 2006//TSTABLE
+/dbfcat.c/1.4/Sun Jul 11 20:30:00 2010//TSTABLE
+/dbfinfo.c/1.3/Sun Jul 11 07:24:37 2010//TSTABLE
+/makefile.vc/1.1/Fri Nov 10 21:48:10 2006//TSTABLE
+/my_nan.h/1.3/Tue Jul 13 06:12:22 2010//TSTABLE
+/shpcat.c/1.2/Wed Jul 25 15:45:27 2007//TSTABLE
+/shpcentrd.c/1.4/Sun Jul 11 07:51:03 2010//TSTABLE
+/shpdata.c/1.3/Sun Jul 11 07:51:03 2010//TSTABLE
+/shpdxf.c/1.6/Sun Jul 11 20:30:00 2010//TSTABLE
+/shpfix.c/1.3/Sun Jul 11 07:51:03 2010//TSTABLE
+/shpgeo.c/1.5/Tue Jul 13 06:12:22 2010//TSTABLE
+/shpgeo.h/1.1/Fri Nov 10 21:48:10 2006//TSTABLE
+/shpinfo.c/1.4/Sun Jul 11 07:51:03 2010//TSTABLE
+/shpproj.c/1.5/Sun Jul 11 20:30:00 2010//TSTABLE
+/shpwkb.c/1.3/Sun Jul 11 07:51:03 2010//TSTABLE
+D

@@ -1,0 +1,25 @@
+/Makefile.in/1.1.1.1/Sat Feb  2 03:16:41 2002//TSTABLE
+/VERSION/1.1.1.1/Sat Feb  2 03:16:41 2002//TSTABLE
+/bindtextdom.c/1.1.1.1/Sat Feb  2 03:16:41 2002//TSTABLE
+/cat-compat.c/1.1.1.1/Sat Feb  2 03:16:42 2002//TSTABLE
+/dcgettext.c/1.1.1.1/Sat Feb  2 03:16:43 2002//TSTABLE
+/dgettext.c/1.1.1.1/Sat Feb  2 03:16:43 2002//TSTABLE
+/explodename.c/1.1.1.1/Sat Feb  2 03:16:43 2002//TSTABLE
+/finddomain.c/1.1.1.1/Sat Feb  2 03:16:44 2002//TSTABLE
+/gettext.c/1.1.1.1/Sat Feb  2 03:16:44 2002//TSTABLE
+/gettext.h/1.1.1.1/Sat Feb  2 03:16:44 2002//TSTABLE
+/gettextP.h/1.1.1.1/Sat Feb  2 03:16:45 2002//TSTABLE
+/hash-string.h/1.1.1.1/Sat Feb  2 03:16:45 2002//TSTABLE
+/intl-compat.c/1.1.1.1/Sat Feb  2 03:16:45 2002//TSTABLE
+/l10nflist.c/1.1.1.1/Sat Feb  2 03:16:45 2002//TSTABLE
+/libgettext.h/1.1.1.1/Sat Feb  2 03:16:46 2002//TSTABLE
+/libintl.h/1.1.1.1/Sat Feb  2 03:16:46 2002//TSTABLE
+/linux-msg.sed/1.1.1.1/Sat Feb  2 03:16:46 2002//TSTABLE
+/loadinfo.h/1.1.1.1/Sat Feb  2 03:16:47 2002//TSTABLE
+/loadmsgcat.c/1.1.1.1/Sat Feb  2 03:16:47 2002//TSTABLE
+/localealias.c/1.1.1.1/Sat Feb  2 03:16:48 2002//TSTABLE
+/po2tbl.sed/1.1.1.1/Sat Feb  2 03:16:48 2002//TSTABLE
+/po2tbl.sed.in/1.1.1.1/Sat Feb  2 03:16:48 2002//TSTABLE
+/textdomain.c/1.1.1.1/Sat Feb  2 03:16:48 2002//TSTABLE
+/xopen-msg.sed/1.1.1.1/Sat Feb  2 03:16:48 2002//TSTABLE
+D

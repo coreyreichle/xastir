@@ -1,0 +1,13 @@
+Makefile.in
+Makefile
+shpdxf
+dbfinfo
+shpcentrd
+shpdata
+shpwkb
+dbfcat
+shpinfo
+shpfix
+shpcat
+shpproj
+.deps

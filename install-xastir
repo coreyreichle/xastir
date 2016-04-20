@@ -1,0 +1,64 @@
+#!/bin/sh
+
+
+# $Id: install-xastir,v 1.11 2012/11/01 18:57:18 we7u Exp $
+# Copyright (C) 2005-2012 The Xastir Group
+
+
+echo
+echo
+echo
+echo Please note that a subdirectory called "xastir" will be created
+echo here and populated with the latest Xastir source code.  If you
+echo already have an "xastir" directory and are running the script
+echo from there, you may want to run it from one directory higher up
+echo instead.  Just stop this script and run these commands instead:
+echo
+echo "    cd .."
+echo "    ./xastir/install-xastir"
+echo
+echo Press ENTER to continue downloading the latest Xastir sources:
+read
+
+
+# Set up an anonymous login for the CVS server
+#
+echo
+echo Press the ENTER key when asked for the CVS password below:
+cvs -d:pserver:anonymous@xastir.cvs.sourceforge.net:/cvsroot/xastir login
+
+
+# Fetch the latest Xastir sources
+#
+cvs -d:pserver:anonymous@xastir.cvs.sourceforge.net:/cvsroot/xastir co xastir
+
+
+# Run the update script to configure/compile/install it
+#
+cd xastir; ./update-xastir
+
+
+echo
+echo
+echo
+echo If you have previously set up the /etc/sudoers file as described in README.CVS,
+echo you should have "xastir" and "callpass" binaries installed in /usr/local/bin.
+echo If not, set up the /etc/sudoers file now and run the "update-xastir" command
+echo listed below.  To update Xastir to the latest version at any time in the future,
+echo change to the "xastir" directory and type:
+echo
+echo "    ./update-xastir"
+echo
+echo Running Xastir:  Execute this command to get your passcode.  You will need the
+echo number it computes in order to authenticate with the internet servers.  The
+echo number is entered in the "passcode" box when setting up an internet server
+echo interface:
+echo
+echo "    callpass"
+echo
+echo Start Xastir itself by typing:
+echo
+echo "    xastir &"
+echo
+
+
