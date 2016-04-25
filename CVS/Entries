@@ -1,4 +1,3 @@
-/.cvsignore/1.9/Thu Nov  1 18:57:18 2012/-kk/TSTABLE
 /ABOUT-NLS/1.1.1.1/Sat Feb  2 03:15:07 2002//TSTABLE
 /AUTHORS/1.25/Thu Nov  1 18:57:18 2012//TSTABLE
 /CC_OpenStreetMap_logo.png/1.1/Tue Jul 27 08:40:19 2010//TSTABLE
@@ -49,4 +48,15 @@
 /xastir.1/1.20/Thu Nov  1 18:57:18 2012//TSTABLE
 /xastir.spec.in/1.31/Mon Apr 29 20:09:42 2013//TSTABLE
 /xastir_udp_client.1/1.5/Thu Nov  1 18:57:18 2012/-kk/TSTABLE
-D
+D/Davis////
+D/LaCrosse////
+D/callpass////
+D/config////
+D/help////
+D/intl////
+D/m4////
+D/po////
+D/scripts////
+D/src////
+D/symbols////
+/.cvsignore/1.9/Mon Apr 25 13:11:48 2016/-kk/TSTABLE
